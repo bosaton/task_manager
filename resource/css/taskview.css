@@ -1,0 +1,54 @@
+
+.easyui-accordion ul
+{
+	list-style-type: none;
+	margin: 0px;
+	padding: 10px;
+}
+.easyui-accordion ul li
+{
+	padding: 0px;
+}
+.easyui-accordion ul li a
+{
+	line-height: 24px;
+}
+.easyui-accordion ul li div
+{
+	margin: 2px 0px;
+	padding-left: 10px;
+	padding-top: 2px;
+}
+.easyui-accordion ul li div.hover
+{
+	border: 1px dashed #99BBE8;
+	background: #E0ECFF;
+	cursor: pointer;
+}
+.easyui-accordion ul li div.hover a
+{
+	color: #416AA3;
+}
+.easyui-accordion ul li div.selected
+{
+	border: 1px solid #99BBE8;
+	background: #E0ECFF;
+	cursor: default;
+}
+.easyui-accordion ul li div.selected a
+{
+	color: #416AA3;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+    font-size:small;
+}
+hr{height:1px;border:none;border-bottom:1px dashed #abc;}
+
+#passwordpanel2{margin: 20px;}
+
+#manage_user_table{padding: 20px;}
+
+#suggestion{width:450px;}

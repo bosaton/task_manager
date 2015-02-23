@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-01-27 21:21:24 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\taskview2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-01-27 21:26:01 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\taskview2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-01-27 21:28:07 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\taskview2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-01-27 21:29:28 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\taskview2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-01-27 21:29:37 --> Severity: Warning  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: MySQL server has gone away C:\xampp\htdocs\taskview2\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-01-27 21:29:46 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\taskview2\application\controllers\modify_task.php 54
+ERROR - 2015-01-27 21:29:46 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\taskview2\application\controllers\modify_task.php 54
+ERROR - 2015-01-27 21:39:51 --> Severity: Warning  --> Missing argument 4 for Task::getTask(), called in C:\xampp\htdocs\taskview2\application\controllers\modify_task.php on line 20 and defined C:\xampp\htdocs\taskview2\application\models\task.php 77
+ERROR - 2015-01-27 21:39:51 --> Severity: Warning  --> Missing argument 5 for Task::getTask(), called in C:\xampp\htdocs\taskview2\application\controllers\modify_task.php on line 20 and defined C:\xampp\htdocs\taskview2\application\models\task.php 77
+ERROR - 2015-01-27 21:39:51 --> Severity: Notice  --> Undefined variable: offset C:\xampp\htdocs\taskview2\application\models\task.php 80
+ERROR - 2015-01-27 21:39:51 --> Severity: Notice  --> Undefined variable: no C:\xampp\htdocs\taskview2\application\models\task.php 80
+ERROR - 2015-01-27 21:39:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ERROR - 2015-01-27 21:40:16 --> Severity: Warning  --> Missing argument 4 for Task::getTask(), called in C:\xampp\htdocs\taskview2\application\controllers\modify_task.php on line 20 and defined C:\xampp\htdocs\taskview2\application\models\task.php 77
+ERROR - 2015-01-27 21:40:16 --> Severity: Warning  --> Missing argument 5 for Task::getTask(), called in C:\xampp\htdocs\taskview2\application\controllers\modify_task.php on line 20 and defined C:\xampp\htdocs\taskview2\application\models\task.php 77
+ERROR - 2015-01-27 21:40:16 --> Severity: Notice  --> Undefined variable: offset C:\xampp\htdocs\taskview2\application\models\task.php 80
+ERROR - 2015-01-27 21:40:16 --> Severity: Notice  --> Undefined variable: no C:\xampp\htdocs\taskview2\application\models\task.php 80
+ERROR - 2015-01-27 21:40:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ERROR - 2015-01-27 22:23:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1
+ERROR - 2015-01-27 22:23:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1
+ERROR - 2015-01-27 22:23:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1
+ERROR - 2015-01-27 22:23:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1
+ERROR - 2015-01-27 22:23:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1
+ERROR - 2015-01-27 22:23:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') and ((startdate <="" and enddate >="") or (startdate >="" and startdate <=""))' at line 1

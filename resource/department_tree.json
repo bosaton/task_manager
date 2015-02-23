@@ -1,0 +1,26 @@
+[{   
+    "id": 1, 
+    "text":"1Y",    
+    "state":"open",    
+    "children":[{  
+        "id":101,  
+        "text":"1L"   
+    },{    
+        "id":102,
+        "text":"2L"   
+    },{
+        "id":103,
+        "text":"3L" 
+    }]    
+},{   
+    "id":2, 
+    "text":"2Y",    
+    "state":"closed",    
+    "children":[{
+        "id":201,    
+        "text":"1L"   
+    },{   
+        "id":202, 
+        "text":"2L"   
+    }]    
+}]  

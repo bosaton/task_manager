@@ -1,0 +1,27 @@
+#form-body {
+	text-align: center;
+	position: absolute;
+	bottom: 73px;
+	width: 472px;
+	background: url(../img/brushed.png) 50% 50%;
+}
+form ul {
+	padding: 0;
+	list-style: none;
+}
+form ul li {
+	margin-top: 15px;
+	margin-left: 20px;
+	margin-bottom:20px;
+}
+#logo img {
+	position: absolute;
+	top:36px;
+	left:125px;
+	font-size: 36px;
+}
+#login #submit {
+	position: absolute;
+	bottom:30px;
+	right:30px;
+}
